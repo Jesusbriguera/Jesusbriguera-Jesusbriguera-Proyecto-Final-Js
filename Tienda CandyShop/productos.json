@@ -1,0 +1,79 @@
+[
+    {
+    "id": 1,
+    "nombre": "Milka Chocopause x 45gr",
+    "cantidad": 1,
+    "precio": 200,
+    "img": "./imagenes/producto1.png"
+    },
+    {
+    "id": 2,
+    "nombre": "Oreo Bañadas x 119gr",
+    "cantidad": 1,
+    "precio": 600,
+    "img": "./imagenes/producto2.png"
+    },
+    {
+    "id": 3,
+    "nombre": "Oblea Kit Kat Gold x 45gr",
+    "cantidad": 1,
+    "precio": 300,
+    "img": "./imagenes/producto3.png"
+    },
+    {
+    "id": 4,
+    "nombre": "M&M Confite x 47.9G",
+    "cantidad": 1,
+    "precio": 250,
+    "img": "./imagenes/producto4.png"
+    },
+    {
+    "id": 5,
+    "nombre": "Conitos Rellenos DDL x 6",
+    "cantidad": 1,
+    "precio": 800,
+    "img": "./imagenes/producto5.png"
+    },
+    {
+    "id": 6,
+    "nombre": "HUEVO KINDER SORPRESA",
+    "cantidad": 1,
+    "precio": 250,
+    "img": "./imagenes/producto6.png"
+    },
+    {
+    "id": 7,
+    "nombre": "Alfajor Bon O Bon x 60gr",
+    "cantidad": 1,
+    "precio": 170,
+    "img": "./imagenes/producto7.png"
+    },
+    {
+    "id": 8,
+    "nombre": "DONUTS LECHE x 78G",
+    "cantidad": 1,
+    "precio": 400,
+    "img": "./imagenes/producto8.png"
+    },
+    {
+    "id": 9,
+    "nombre": "Chocolate Aguila x 150gr",
+    "cantidad": 1,
+    "precio": 700,
+    "img": "./imagenes/producto9.png"
+    },
+    {
+    "id": 10,
+    "nombre": "Nutella Grande 350gr",
+    "cantidad": 1,
+    "precio": 1200,
+    "img": "./imagenes/producto10.png"
+    },
+    {
+    "id": 11,
+    "nombre": "Choc. Cofler Rocklets 100gr",
+    "cantidad": 1,
+    "precio": 350,
+    "img": "./imagenes/producto11.png"
+    }
+]
